@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Henrique 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio22k_/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-048996232/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-048996232/ target='_blank)
 
 ![Caio H GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioHenriqueh&show_icons=true&theme=dracula&count_private=true)
 
